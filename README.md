@@ -77,6 +77,3 @@ The `TaskModel` defines the schema for the tasks. It includes the following fiel
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For questions, contact KamTheCreator at kamsiyochukwuejike-ezeh@gmail.com.
